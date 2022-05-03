@@ -1,0 +1,22 @@
+{
+  "name": "trello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hisahito/Trello-External.git"
+  },
+  "author": "Hisahito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hisahito/Trello-External/issues"
+  },
+  "homepage": "https://github.com/Hisahito/Trello-External#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
